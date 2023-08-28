@@ -1,0 +1,22 @@
+[
+  {
+    "MeetingId": 1,
+    "In-Time": "9:00",
+    "Out-Time": "10:00"
+  },
+  {
+    "MeetingId": 2,
+    "In-Time": "10:00",
+    "Out-Time": "11:00"
+  },
+  {
+    "MeetingId": 3,
+    "In-Time": "12:00",
+    "Out-Time": "13:00"
+  },
+  {
+    "MeetingId": 4,
+    "In-Time": "13:00",
+    "Out-Time": "14:00"
+  }
+]
